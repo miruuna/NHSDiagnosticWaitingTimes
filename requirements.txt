@@ -1,0 +1,7 @@
+
+azure-core==1.35.0
+azure-identity==1.23.0
+azure-storage-blob==12.25.1
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1679322162244/work
+pandas==1.5.3
+requests==2.31.0
