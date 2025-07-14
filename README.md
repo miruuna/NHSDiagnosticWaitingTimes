@@ -1,5 +1,5 @@
 # NHS Diagnostic Waiting Times Data Pipeline  
-_Azure Data Factory (ADF) Implementation for NGS Diagnostic Waiting Times_
+_Azure Data Factory (ADF) Implementation for NHS Diagnostic Waiting Times_
 
 ## Overview
 
@@ -135,7 +135,7 @@ CONTAINER_NAME="nhs-diagnostic-data"
 - **SQL Database**:
   - Use SQL authentication or Azure AD
   - Test connections in ADF
-  
+
 ![alt text](images/pipeline_resources.png)
 
 ---
@@ -208,8 +208,10 @@ Uploads June 2024 data to Azure Blob Storage.
 
 1. Open ADF Studio
 2. Navigate to your pipeline
-3. Click **Trigger Now** to run it
+3. Click ***Triger -> Trigger Now** to run it
 4. Monitor status via activity logs
+
+![alt text](images/trigger.png)
 
 ---
 
