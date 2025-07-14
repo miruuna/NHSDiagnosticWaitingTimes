@@ -5,3 +5,4 @@ azure-storage-blob==12.25.1
 beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1679322162244/work
 pandas==1.5.3
 requests==2.31.0
+python-dotenv
